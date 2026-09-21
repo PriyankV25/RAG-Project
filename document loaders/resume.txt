@@ -1,0 +1,60 @@
+Priyank Saxena
+ priyank.s.25.22@gmail.com  |  +91 8077781884 |  GitHub |  LinkedIn
+
+Professional Summary
+Software Engineer specializing in automation, DevOps workflows, and enterprise endpoint remediation across Windows and macOS environments. Experienced in designing and implementing one-click troubleshooters, silent software installers, and Microsoft Update metadata and patch intelligence pipelines. Proficient in Python, PowerShell, Bash, C#, Selenium, Pandas, and data analytics to automate diagnostics, root-cause analysis, and operational workflows, reducing manual effort and improving endpoint reliability and system stability within large-scale IT environments.
+
+Technical Skills
+Programming & Scripting: Python, PowerShell, Bash, Shell Scripting, C#, Java, JavaScript
+Automation & DevOps: Automation Frameworks, DevOps Pipelines, CI/CD Concepts, Docker, Endpoint Remediation, Vagrant
+Data & Analytics: Pandas, Power BI, Data Analysis, Dashboards, Reporting, NumPy
+Web & APIs: Flask, HTML, CSS, Bootstrap, REST APIs, Postman
+Tools & Platforms: Selenium, BeautifulSoup, Git, Microsoft Azure, MySQL, MongoDB, Ubuntu, Jmeter, Postman
+Other: Test Automation, IT Service Management, Solution Architecture, RCA, CLI
+
+Professional Experience
+Software Engineer	Apr 2024 – Present
+Workelevate, Noida, India
+•Developed 100+ one-click endpoint troubleshooters and 50+ silent software installers for Windows environments, reducing manual support effort and MTTR.
+•Built 40+ macOS remediation solutions using Bash and CLI tools to support cross-platform enterprise environments.
+•Designed 20+ automation troubleshooter for Root Cause Analysis (RCA) Module, improving issue resolution accuracy and system reliability.
+•Created metadata-driven automation pipelines for patch intelligence, validation, and reporting.
+•Actively involved in research, development, and automation initiatives, enhancing product capabilities and extending the reach of key features.
+•Maintained detailed technical documentation and SOPs for enterprise automation workflows.
+•Provided dedicated technical services and performed data analysis for HP-DAAS PI as part of service delivery to Client: Lupin Limited, resolving issues efficiently and maintaining client satisfaction
+Trainee Engineer	Sep 2023 – Apr 2024
+Progressive Infotech Pvt. Ltd., Noida, India
+•Assisted in enterprise endpoint support, troubleshooting, and automation initiatives.
+•Gained hands-on experience in scripting, system diagnostics, and IT service operations.
+•Supported deployment, monitoring, and validation of automated solutions.
+
+Key Projects
+Endpoint Remediation and Troubleshooting Automation
+•Engineered large-scale endpoint remediation automation using 200+ scripts developed with PowerShell, Bash, C#, and CLI tools.
+•Delivered client-specific recommendations and 150+ silent software installers, significantly reducing support tickets.
+•Contributed to continuous improvement of automated diagnostics and remediation workflows.
+Microsoft Update Metadata Automation Engine
+•Designed a Python-based automation framework to scrape and process Microsoft Update Catalog metadata.
+•Used Selenium and BeautifulSoup for catalog interaction and Pandas/OpenPyXL for data transformation and reporting.
+•Enabled structured patch intelligence to support enterprise patch management decisions.
+LUPIN IT Solutions – HP-DAAS & Workelevate
+•Served as Report Administrator and PI Analyst for HP-DAAS at Lupin.
+•Delivered environment-specific troubleshooting and remediation strategies, improving system reliability by more than 90% over the endpoints.
+•Built dashboards and reports to support decision-making and service optimization.
+Attendance Management System Using Face Recognition
+•Developed an automated attendance system using Python, Flask, OpenCV, and KNN.
+•Implemented real-time face detection, recognition, and timestamp-based attendance logging with accuracy of 95%.
+•Integrated machine learning models for accurate identification and reporting.
+Education
+Bachelor of Technology (B.Tech) in Computer Science Engineering	2019 – 2023
+Dr. A.P.J. Abdul Kalam Technical University
+B.Tech Percentage -  78%
+Higher Secondary Certificate (PCM)	2018 – 2019
+DAV Public School, Ballabhgarh
+
+Certifications
+Java (HackerRank) • Flask Python (Great Learning) • Linux Tutorial (Great Learning) • Google IT Support Fundamentals (Coursera) • Blockchain Technology & Management (Amity) • Python (LinkedIn) • Web Development (Internshala) • GDG DevFest India
+
+Awards & Achievements
+•Catalyst in Client Engagement Award – Workelevate (January 2025)
+•Winner, Best Personality Award – Campus Event (May 2023)
