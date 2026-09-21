@@ -1,0 +1,87 @@
+# ================================
+# Core RAG / LLM Framework
+# ================================
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# ================================
+# OpenAI
+# ================================
+openai
+langchain-openai
+
+# ================================
+# Mistral AI
+# ================================
+mistralai
+langchain-mistralai
+
+# ================================
+# Vector Databases
+# ================================
+chromadb
+langchain-chroma
+faiss-cpu
+
+# ================================
+# Embeddings
+# ================================
+sentence-transformers
+langchain-huggingface
+
+# ================================
+# Document Loaders
+# ================================
+pypdf
+python-docx
+docx2txt
+openpyxl
+unstructured
+beautifulsoup4
+lxml
+markdown
+
+# ================================
+# Web / URL Loading
+# ================================
+requests
+httpx
+
+# ================================
+# Tokenization
+# ================================
+tiktoken
+
+# ================================
+# Data Processing
+# ================================
+numpy
+pandas
+
+# ================================
+# Environment Variables
+# ================================
+python-dotenv
+
+# ================================
+# API / Backend
+# ================================
+fastapi
+uvicorn
+
+# ================================
+# UI
+# ================================
+streamlit
+
+# ================================
+# Validation / Structured Data
+# ================================
+pydantic
+
+# ================================
+# Utilities
+# ================================
+tenacity
