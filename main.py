@@ -23,7 +23,7 @@ llm = HuggingFaceEndpoint(
 
 model = ChatHuggingFace(llm=llm)
 
-prompt = template.format_messages(data=docs)
+prompt = template.format_messages(data=docs[0].page_content)
 
 response = model.invoke(prompt)
 
