@@ -5,12 +5,21 @@ import sys
 from langchain_community.document_loaders import TextLoader
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_community.document_loaders import PyPDFLoader
-
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 load_dotenv()
 
 sys.stdout.reconfigure(encoding="utf-8")
-data = PyPDFLoader("document loaders/llmresearch.pdf")
+data = PyPDFLoader("document loaders/deep-learning.pdf")
 docs = data.load()
+
+
+splitter = RecursiveCharacterTextSplitter(
+    chunk_size=1000, 
+    chunk_overlap=200
+)
+
+chunks = splitter.split_documents(docs)
+
 template = ChatPromptTemplate.from_messages(
     [("system", "You are a AI that summarize the text"), 
      ("human", "{data}" )]
